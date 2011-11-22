@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EjemploServicioActivity!</string>
+    <string name="app_name">EjemploServicio</string>
+    <string name="Info">Ejemplo Servicio</string>
+    <string name="StopServ">Parar Servicio</string>
+    <string name="StartServ">Comenzar Servicio</string>
+
+</resources>

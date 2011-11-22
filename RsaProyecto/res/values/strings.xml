@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RsaProyectoActivity!</string>
+    <string name="app_name">RsaProyecto</string>
+    <string name="GenerarClave">GenerarClave</string>
+    <string name="LongClave">Escoge Longitud Clave</string>
+    <string name="Cifrar">Cifrar</string>
+    <string name="Descifrar">Descifrar</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SSLCertProyectoActivity!</string>
+    <string name="app_name">SSLCertProyecto</string>
+    <string name="serverText">Servidor a Conectar</string>
+    <string name="ConnectBoton">Conectar</string>
+
+</resources>
